@@ -1,0 +1,3 @@
+entrada,Date,Time,League,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over15,FT_Odd_Over25,FT_Odd_BTTS_Yes,FT_Odd_Under15,FT_Odd_Under25
+OVER25,09.10.2023,19:00,BOLIVIA - DIVISION PROFESIONAL - ROUND 27,Vaca Diez,Tomayapo,2.15,3.5,3.25,1.36,2.1,1.83,3.0,1.7
+BTTS_SIM,09.10.2023,19:00,SPAIN - LALIGA2 - ROUND 10,Villarreal B,Espanyol,4.5,3.9,1.73,1.2,1.67,1.67,4.33,2.15
